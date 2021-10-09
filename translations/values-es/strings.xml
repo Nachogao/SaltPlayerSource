@@ -28,13 +28,13 @@
     <string name="local_playlist">PlayList local</string>
     <string name="new_playlist">Crear nueva PlayList</string>
     <string name="import_playlist">Importar PlayList</string>
-    <string name="local_music">Musica Local</string>
+    <string name="local_music">Música Local</string>
     <string name="history">Historial</string>
     <string name="contact_author">Contacto con el autor</string>
     <string name="author_email">moriafly@163.com</string>
-    <string name="more">Mas</string>
+    <string name="more">Más</string>
     <string name="comment">Comentario</string>
-    <string name="music">Musica</string>
+    <string name="music">Música</string>
     <string name="artist">Artista</string>
     <string name="update_log">Changelog</string>
     <string name="song_comment">Comentario del Audio</string>
@@ -47,7 +47,7 @@
     <string name="confirm">Confirmar</string>
     <string name="version">%s(%d)</string>
     <string name="open_source_introduction">Introducción de código abierto</string>
-    <string name="send">Mandar</string>
+    <string name="send">Enviar</string>
     <string name="d_songs">Hay %d canciones</string>
     <string name="hot_search">Búsquedas populares</string>
     <string name="playlist_number">PlayList（%d）</string>
@@ -56,7 +56,7 @@
     <string name="translation">Traducir</string>
     <string name="download">Descargar</string>
     <string name="back">Volver</string>
-    <string name="remove_the_song">Eliminar Musica</string>
+    <string name="remove_the_song">Eliminar música</string>
     <string name="email">Correo electrónico</string>
     <string name="cloud_drive">Drive</string>
     <string name="theme">Tema</string>
@@ -167,7 +167,7 @@
     <string name="start">Empezar</string>
     <string name="d_minutes">%d Minutos</string>
     <string name="audio_effect_dialog_tips">Salt Music ya adapto Poweramp Equalizer y otras aplicaciones de Efecto</string>
-    <string name="search_songs_hint">Buscar entre %d musical</string>
+    <string name="search_songs_hint">Buscar entre %d música</string>
     <string name="baidu_pan">Baudupan drive</string>
     <string name="stop">Stop</string>
     <string name="use_music_tag_app_editing">Usar "音乐标签" para editar</string>
@@ -206,7 +206,7 @@
     <string name="disabling_aaudio_output_intro">En Android 8.0 y posteriores, prohibir el AAudio usara OpenSL ES, esto dará mejor estabilidad</string>
     <string name="album_s">Albuns: %s</string>
     <string name="enable_or_disable_desktop_lyrics">Activar/Desactivar letra en descktop</string>
-    <string name="songs">Musical</string>
+    <string name="songs">Musica</string>
     <string name="albums">Albums</string>
     <string name="folders">Carpetas</string>
     <string name="artists">Artistas</string>
